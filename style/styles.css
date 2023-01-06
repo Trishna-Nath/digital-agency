@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.nav-container{
+    display: flex;
+    padding: 5px;
+    justify-content: space-around;
+    background-color: cadetblue;
+}
+.items{
+    display: flex;
+    list-style: none;
+    
+}
+.item{
+    font-size: 22px;
+    font-weight: bold;
+    padding:10px;
+    margin-right: 10px;
+}
